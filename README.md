@@ -19,7 +19,7 @@ Ce projet fait partie du parcours Data Scientist proposé par OpenClassrooms.
 Les données utilisées pour ce projet proviennent du [Source](https://www.kaggle.com/c/home-credit-default-risk/data)
 ## Dashboard 
 [Lien vers le Dashboard](https://limitless-escarpment-04117-235f6d042a6d.herokuapp.com/)
-[Aperçu du Dashboard]() 
+[Aperçu du Dashboard](https://github.com/ABOUD43/OC-Projet6-Implementez-modele-scoring/blob/main/Pret_a_DEPENSER_Dashboard.pdf) 
 
 ## Notebook Google Colab
 
