@@ -13,7 +13,7 @@ Pour ce projet, nous nous plaçons en tant que Data Scientist au sein d'une soci
   
 ## Cahier des charges OpenClassrooms
 Ce projet fait partie du parcours Data Scientist proposé par OpenClassrooms.  
-[Consulter le brief officiel du projet]
+[Consulter le brief officiel du projet](https://github.com/ABOUD43/OC-Projet6-Implementez-modele-scoring/blob/main/details_projet.pdf)
 
 ## Source des données
 Les données utilisées pour ce projet proviennent du [Source](https://www.kaggle.com/c/home-credit-default-risk/data)
