@@ -1,0 +1,3 @@
+[console_scripts]
+ff_ctrl = ff:main
+

@@ -1,0 +1,32 @@
+Metadata-Version: 2.0
+Name: ff
+Version: 0.0.10
+Summary: A kit for files finding
+Home-page: https://github.com/fengyu05/ff/wiki
+Author: Zhifeng Deng
+Author-email: eitheror2013@gmail.com
+License: MIT
+Keywords: ff kit
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.2
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Provides-Extra: dev
+Requires-Dist: check-manifest; extra == 'dev'
+Provides-Extra: test
+Requires-Dist: coverage; extra == 'test'
+
+A Suite for files finding in unix 
+=======================
+
+This is the description file for the project.
+
+
